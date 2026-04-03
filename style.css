@@ -11,6 +11,7 @@ body{
     display: flex;
     justify-content: space-evenly;
     height: 55px;
+    width: 100%;
 }
 .nav-link ul{
     display: flex;
@@ -74,7 +75,7 @@ body{
     transform: scale(1.05);
 }
 .hero{
-    width: auto;
+    width: 95%;
     height: 530px;
     background-image: url('img/tech.jpg');
     opacity: 0.9;
